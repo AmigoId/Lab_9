@@ -1,0 +1,11 @@
+Revert "Слияние branch_1"
+
+This reverts commit fc73694b1b9ccc13423168f8c64a0a926f18b14e.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch branch_1
+# Changes to be committed:
+#	modified:   style.css
+#
